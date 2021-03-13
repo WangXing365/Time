@@ -1,3 +1,2 @@
 # <p align="center">TIME</p>
-
-![time.jpg](https://i.loli.net/2021/03/13/CElRDFkLbiZcQga.jpg)
+<img src="https://i.loli.net/2021/03/13/CElRDFkLbiZcQga.jpg" height="60%" width="60%">

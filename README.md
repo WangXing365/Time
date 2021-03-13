@@ -1,3 +1,3 @@
-# Time
+<center>Time</center>
 
-获取本地/服务器时间
+![time.jpg](https://i.loli.net/2021/03/13/CElRDFkLbiZcQga.jpg)
